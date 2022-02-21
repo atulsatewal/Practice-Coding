@@ -1,13 +1,13 @@
 ## Prerequisite Knowledge
 
-- [ ] **Know about your language:**
-    - [ ] [JDK, JVM and JRE](https://www.youtube.com/watch?v=BXFHuaQNnLo)
-    - [ ] [How Java works](https://www.youtube.com/watch?v=fhfVkPpIwjk)
-    - [ ] [How JVM works](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
-    - [ ] [Garbage Collector](https://www.youtube.com/watch?v=UnaNQgzw4zY)
-    - [ ] [JIT compiler](https://www.youtube.com/watch?v=GXUiEouK7DM)
-    - [ ] [Watch with Popcorn](https://www.youtube.com/watch?v=JLFjY6Ixct8)
-    - [ ] [Java Keywords: Learn about each of them](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
+- [x] **Know about your language:**
+    - [x] [JDK, JVM and JRE](https://www.youtube.com/watch?v=BXFHuaQNnLo)
+    - [x] [How Java works](https://www.youtube.com/watch?v=fhfVkPpIwjk)
+    - [x] [How JVM works](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
+    - [x] [Garbage Collector](https://www.youtube.com/watch?v=UnaNQgzw4zY)
+    - [x] [JIT compiler](https://www.youtube.com/watch?v=GXUiEouK7DM)
+    - [] [Watch with Popcorn](https://www.youtube.com/watch?v=JLFjY6Ixct8)
+    - [] [Java Keywords: Learn about each of them](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
 
 - ### Garbage collection
     - [ ] [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
